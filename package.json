@@ -1,21 +1,21 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/sci-bib",
+  "repository": "sermons/sci-bib",
+  "description": "Science and the Bible",
   "keywords": [
     "slides",
-    "lectures",
+    "sermon",
     "talks",
-    "ppt"
+    "science"
   ],
   "version": "1.6.15",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "sci-bib.seanho.com",
+    "cname": "sci-bib.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "22bc761ffc97809b"
+      "id": "ae4b3a7bbaa799a5"
     },
     "git": {
       "name": "Sean Ho",
@@ -23,14 +23,26 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
-        "duration": 0
+        "venue": "White Rock Christian Academy",
+        "city": "Surrey",
+        "date": "2018-01-31",
+        "duration": 47
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Surrey",
+        "date": "2016-04-17",
+        "duration": 40
+      },
+      {
+        "venue": "China Christian Gospel Church",
+        "city": "Burnaby",
+        "date": "2016-04-17",
+        "duration": 40
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0",
     "css": [
