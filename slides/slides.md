@@ -220,14 +220,14 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 ## Origin of life <span class="zh">生命的起源</span>
 
 <div class="imgbox">
-<div>![Miller-Urey experiment](static/img/Miller-Urey_experiment-en.svg)
+<div>![Miller-Urey experiment](static/img/Miller-Urey_experiment-en.png)
   <!-- .element: style="background-color: white" --></div>
 <div><ul>
   <li> Only amino acids <span class="zh">氨基酸</span> </li>
   <li> No oxygen <span class="zh">沒有氧氣</span> </li>
   <li> Chirality mix <span class="zh">右旋左旋</span> </li>
 </ul>
-![DNA double-helix](static/img/DNA_simple2.svg)
+![DNA double-helix](static/img/DNA_simple2.png)
 <!-- .element: style="background-color: white" width="70%" -->
 </div>
 </div>
