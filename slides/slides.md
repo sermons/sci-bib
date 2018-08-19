@@ -409,3 +409,6 @@ fact and scientists' opinions.
 
 The Creator has revealed Himself, via His Word and His work, and He will
 glorify Himself again in the coming judgment.
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
