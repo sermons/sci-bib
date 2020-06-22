@@ -1,6 +1,6 @@
 # Science and the Bible
 
-[![Build status](https://travis-ci.org/sermons/sci-bib.svg)](https://travis-ci.org/sermons/sci-bib)
+[![Build status](https://api.travis-ci.com/sermons/sci-bib.svg)](https://travis-ci.com/github/sermons/sci-bib)
 [![Node deps](https://david-dm.org/sermons/sci-bib.svg)](https://david-dm.org/sermons/sci-bib)
 [![Node devDeps](https://david-dm.org/sermons/sci-bib/dev-status.svg)](https://david-dm.org/sermons/sci-bib?type=dev)
 
