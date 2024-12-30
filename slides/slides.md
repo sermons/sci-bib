@@ -1,6 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
 # Science and the Bible
-# <span class="zh">科學與聖經</span>
 
 >>>
 + **science**: observation of current real world
@@ -16,11 +15,7 @@
 In the **beginning** <br>
 **God** created the **heavens** and the earth
 
-<div class="zh">
-起初， 神創造天地
-</div>
-
-[Genesis <span class="zh">創</span> 1:1](# "ref")
+[Genesis 1:1](# "ref")
 
 >>>
 + **Creation** important: where did we come from?
@@ -30,12 +25,17 @@ In the **beginning** <br>
 + **Why** is creation important?
 
 ---
-## The Designer <span class="zh">設計師</span>
+## The Designer 
 
-<div class="imgbox">
-<div>![photo of car](static/img/sentra.jpg)</div>
-<div>![photo of gas station](static/img/wm-Union_76_Gas_Station.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![photo of car](static/img/sentra.jpg)
+
+</div><div>
+
+![photo of gas station](static/img/wm-Union_76_Gas_Station.jpg)
+
+</div></div>
 
 >>>
 + car **owner** must listen to **manufacturer**
@@ -43,12 +43,17 @@ In the **beginning** <br>
 + Creator defines **right** vs **wrong** for us
 
 ---
-## The Manual <span class="zh">手冊</span>
+## The Manual 
 
-<div class="imgbox">
-<div>![photo of owner's manual](static/img/ownersmanual.jpg)</div>
-<div>![photo of Bible](https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![photo of owner's manual](static/img/ownersmanual.jpg)
+
+</div><div>
+
+![photo of Bible](https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg)
+
+</div></div>
 
 >>>
 + manufacturer includes **owner's manual**
@@ -69,14 +74,7 @@ or the **birds** in the sky, and they will tell you; <br/>
 or speak to the **earth**, and it will teach you, <br/>
 or let the **fish** in the sea inform you.
 
-<div class="zh">
-你且問**走獸**， 走獸必指教你； <br/>
-又問空中的**飛鳥**， 飛鳥必告訴你； <br/>
-或與**地**說話， 地必指教你； <br/>
-海中的**魚**也必向你說明。
-</div>
-
-[Job <span class="zh">約伯</span> 12:7-8 (p.1/2)](# "ref")
+[Job 12:7-8 (p.1/2)](# "ref")
 
 >>>
 + Bible not **opposed** to science
@@ -90,14 +88,7 @@ that the **hand of the Lord** has done this? <br/>
 In his hand is the **life** of every creature <br/>
 and the **breath** of all mankind.
 
-<div class="zh">
-看這一切， 誰不知道是 <br/>
-**耶和華的手**做成的呢？ <br/>
-凡活物的**生命**和人類的**氣** <br/>
-息都在他手中。
-</div>
-
-[Job <span class="zh">約伯</span> 12:9-10 (p.2/2)](# "ref")
+[Job 12:9-10 (p.2/2)](# "ref")
 
 >>>
 + **purpose** of science: proclaim God as
@@ -107,12 +98,17 @@ and the **breath** of all mankind.
   + discern **fact** vs **opinion**
 
 ---
-## Matthew Maury <span class="zh">莫里</span> (1806-1873)
+## Matthew Maury (1806-1873)
 
-<div class="imgbox">
-<div>![photo of Matthew Maury](static/img/maury.jpg)</div>
-<div>![map of oceans](static/img/maury-atlantic.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![photo of Matthew Maury](static/img/maury.jpg)
+
+</div><div>
+
+![map of oceans](static/img/maury-atlantic.jpg)
+
+</div></div>
 
 >>>
 + Christian, US **naval** commander,
@@ -131,22 +127,11 @@ and the **breath** of all mankind.
 <!-- .slide: <%= bg("unsplash-NaWKMlp3tVs-bible.jpg") %> -->
 **Knowledge** puffs up while **love** builds up.
 
-<div class="zh">
-但**知識**是叫人自高自大， <br/>
-惟有**愛心**能造就人。
-</div>
-
 Those who **think** they know something <br/>
 **do not** yet know as they ought to know. <br>
 But whoever **loves God** is known by God.
 
-<div class="zh">
-若有人**以為**自己知道甚麼， <br/>
-按他所當知道的， 他仍是**不知道**。
-若有人**愛神**， 這人乃是神所知道的。
-</div>
-
-[1 Corinthians <span class="zh">歌林多前</span> 8:2-3](# "ref")
+[1 Corinthians 8:2-3](# "ref")
 
 >>>
 + quest for **knowledge**: becomes self-serving
@@ -160,12 +145,12 @@ But whoever **loves God** is known by God.
 
 ---
 <!-- .slide: <%= bg("unsplash-YN_JWPDYVoM-mtns.jpg") %> -->
-| The **Bible** <span class="zh">聖經</span> | **Evolution** <span class="zh">進化論</span> |
+| The **Bible** | **Evolution** |
 | --- | --- |
-| **Design** and purpose <br/> <span class="zh">有設計,目的</span> | **No** intelligence <br/> <span class="zh">没有智能設計</span> |
-| Distinct **kinds** <br/> <span class="zh">各從其類</span> | **Common** ancestry <br/> <span class="zh">共同的祖先</span> |
-| **Good** creation, <br/> corrupted by sin <br/> <span class="zh">所造的都甚好</span> | Increasingly **complex** <br/> organisms <br/> <span class="zh">愈來愈複雜的生物體</span> |
-| **Short** history, short future <br/> <span class="zh">幾千年</span> | **Billions** of years <br/> <span class="zh">幾十億年</span> |
+| **Design** and purpose | **No** intelligence |
+| Distinct **kinds** | **Common** ancestry |
+| **Good** creation, <br/> corrupted by sin | Increasingly **complex** <br/> organisms |
+| **Short** history, short future | **Billions** of years |
 
 >>>
 + **origins**: history, not **repeatable**.
@@ -179,12 +164,17 @@ But whoever **loves God** is known by God.
 + focus on the **second** point:
 
 ---
-## Evolutionary tree <span class="zh">進化樹</span>
+## Evolutionary tree 
 
-<div class="imgbox">
-<div>[![Evolutionary tree](static/img/apeman-tree.jpg)](http://culturedvultures.com/evolution-will-one-day-disproved-using-human-model/)</div>
-<div>[![Phylogenetic tree from 16 ribosomal proteins per organism](static/img/hug-new_view_tree_of_life.jpg)](http://www.nature.com/articles/nmicrobiol201648)</div>
-</div>
+<div class="imgbox"><div>
+
+[![Evolutionary tree](static/img/apeman-tree.jpg)](http://culturedvultures.com/evolution-will-one-day-disproved-using-human-model/)
+
+</div><div>
+
+[![Phylogenetic tree from 16 ribosomal proteins per organism](static/img/hug-new_view_tree_of_life.jpg)](http://www.nature.com/articles/nmicrobiol201648)
+
+</div></div>
 
 >>>
 + **common** ancestry of all life
@@ -198,16 +188,19 @@ But whoever **loves God** is known by God.
   + Where are the **transitional** forms?
 
 ---
-## Each according to kind <span class="zh">各從其類
+## Each according to kind 
 
-<div class="imgbox">
-<div>![Evolutionary tree vs creationist orchard](static/img/lawn-tree-orchard.jpg)</div>
-<div>[![Variation within a kind](static/img/purdom-cat-kind.gif)](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/)</div>
-</div>
+<div class="imgbox"><div>
 
-<div class="caption">
-[AiG: Variety Within Created Kinds](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/)
-</div>
+![Evolutionary tree vs creationist orchard](static/img/lawn-tree-orchard.jpg)
+
+</div><div>
+
+[![Variation within a kind](static/img/purdom-cat-kind.gif)](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/)
+
+</div></div>
+
+[AiG: Variety Within Created Kinds](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/ "caption")
 
 >>>
 The phrase "each according to its kind" (10x in Gen1, and also elsewhere) implies the existence of **boundaries** between kinds of life.
@@ -217,24 +210,25 @@ The phrase "each according to its kind" (10x in Gen1, and also elsewhere) implie
 Which model fits better with what we see in the world? Not scientists' opinions, but what we see.
 
 ---
-## Origin of life <span class="zh">生命的起源</span>
+## Origin of life 
 
-<div class="imgbox">
-<div>![Miller-Urey experiment](static/img/Miller-Urey_experiment-en.png)
-  <!-- .element: style="background-color: white" --></div>
-<div><ul>
-  <li> Only amino acids <span class="zh">氨基酸</span> </li>
-  <li> No oxygen <span class="zh">沒有氧氣</span> </li>
-  <li> Chirality mix <span class="zh">右旋左旋</span> </li>
-</ul>
+<div class="imgbox"><div>
+
+![Miller-Urey experiment](static/img/Miller-Urey_experiment-en.png)
+<!-- .element: style="background-color: white" -->
+
+</div><div>
+
++ Only amino acids 
++ No oxygen
++ Chirality mix
+
 ![DNA double-helix](static/img/DNA_simple2.png)
 <!-- .element: style="background-color: white" width="70%" -->
-</div>
-</div>
 
-<div class="caption">
-[ICR: The Problem with Chirality](http://www.icr.org/article/evolution-hopes-you-dont-know-chemistry-problem-wi/)
-</div>
+</div></div>
+
+[ICR: The Problem with Chirality](http://www.icr.org/article/evolution-hopes-you-dont-know-chemistry-problem-wi/ "caption")
 
 >>>
 - Miller's experiment: ammonia + reducing atmosphere + spark: produced amino acids
@@ -244,16 +238,19 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 - origin of life is still problematic for evolutionists today! Seeded by comets / meteors? Aliens?
 
 ---
-## Pasteur's soup <span class="zh">巴斯德</span>
+## Pasteur's soup 
 
-<div class="imgbox">
-<div>![Louis Pasteur](static/img/wm-Louis_Pasteur.jpg)</div>
-<div>![Pasteur's swan-necked flask](static/img/pasteur-swan-Wellcome_M0012521.jpg)</div>
-</div>
+<div class="imgbox"><div>
 
-<div class="caption">
-[Creation.com: Louis Pasteur](http://creation.com/louis-pasteur)
-</div>
+![Louis Pasteur](static/img/wm-Louis_Pasteur.jpg)
+
+</div><div>
+
+![Pasteur's swan-necked flask](static/img/pasteur-swan-Wellcome_M0012521.jpg)
+
+</div></div>
+
+[Creation.com: Louis Pasteur](http://creation.com/louis-pasteur "caption")
 
 >>>
 - spontaneous generation: life (e.g., mold) from non-life (e.g., boiled soup)
@@ -262,18 +259,21 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 - "The more I study nature, the more I stand amazed at the work of the Creator"
 
 ---
-## Natural selection <span class="zh">自然選擇</span>
+## Natural selection
 
-Peppered moths <span class="zh">胡椒蛾</span>
+Peppered moths
 
-<div class="imgbox">
-<div>[![Black pepper moth, &copy; Jerzy Strzelecki](static/img/moth-black-jerzystrzelecki.jpg)](https://commons.wikimedia.org/wiki/Biston_betularia)</div>
-<div>[![White pepper moth, &copy; Jamie McMillan](static/img/moth-white-drinkermoth.jpg)](https://www.flickr.com/photos/drinkermoth/7889770032)</div>
-</div>
+<div class="imgbox"><div>
 
-<div class="caption">
-[Creation.com: The Moth Files](http://creation.com/the-moth-files)
-</div>
+[![Black pepper moth, &copy; Jerzy Strzelecki](static/img/moth-black-jerzystrzelecki.jpg)](https://commons.wikimedia.org/wiki/Biston_betularia)
+
+</div><div>
+
+[![White pepper moth, &copy; Jamie McMillan](static/img/moth-white-drinkermoth.jpg)](https://www.flickr.com/photos/drinkermoth/7889770032)
+
+</div></div>
+
+[Creation.com: The Moth Files](http://creation.com/the-moth-files "caption")
 
 >>>
 - Peppered moths, black and white, in England, resting on pale lichen
@@ -286,13 +286,21 @@ Peppered moths <span class="zh">胡椒蛾</span>
 - No new information, only loss of information if white went extinct
 
 ---
-## Degeneration <span class="zh">退化</span>, <br/> not Evolution <span class="zh">進化</span>
+## Degeneration, not Evolution
 
-<div class="imgbox">
-<div>![Dodo bird](static/img/dodo.jpg)</div>
-<div>![Passenger pigeon](static/img/passenger_pigeon.jpg)</div>
-<div>[![Mastodon, Charles R Knight](static/img/Knight_Mastodon.jpg)](http://research.amnh.org/paleontology/artwork/knight/index.html)</div>
-</div>
+<div class="imgbox"><div>
+
+![Dodo bird](static/img/dodo.jpg)
+
+</div><div>
+
+![Passenger pigeon](static/img/passenger_pigeon.jpg)
+
+</div><div>
+
+[![Mastodon, Charles R Knight](static/img/Knight_Mastodon.jpg)](http://research.amnh.org/paleontology/artwork/knight/index.html)
+
+</div></div>
 
 >>>
 According to the Bible, we would never see *new* kinds of life appearing
@@ -302,16 +310,19 @@ We need to protect endangered species because genetic diversity
 is *decreasing*, not increasing.  We're not evolving, but devolving.
 
 ---
-## Homology <span class="zh">同源性</span> (similarity)
+## Homology (similarity)
 
-<div class="imgbox">
-<div>[![Chimp at Kibale, Uganda. &copy; Dror Feitelson](static/img/wm-Kibale_chimp.jpg)](https://en.wikipedia.org/wiki/Kibale_National_Park)</div>
-<div>![Sheet music](static/img/mozart-zweig_MS63.jpg)</div>
-</div>
+<div class="imgbox"><div>
 
-<div class="caption">
-[AiG: Homology: Evidence of Creation?](https://answersingenesis.org/biology/homology-comparative-similarities/)
-</div>
+[![Chimp at Kibale, Uganda. &copy; Dror Feitelson](static/img/wm-Kibale_chimp.jpg)](https://en.wikipedia.org/wiki/Kibale_National_Park)
+
+</div><div>
+
+![Sheet music](static/img/mozart-zweig_MS63.jpg)
+
+</div></div>
+
+[AiG: Homology: Evidence of Creation?](https://answersingenesis.org/biology/homology-comparative-similarities/ "caption")
 
 >>>
 - But we look so similar!  Two eyes, two ears, DNA, etc.
@@ -321,7 +332,7 @@ is *decreasing*, not increasing.  We're not evolving, but devolving.
 
 ---
 <!-- .slide: data-background-image="static/img/creation_of_adam.jpg" -->
-## Implications <span class="zh">含義</span>
+## Implications
 
 + Is there a Creator we are **accountable** to?
 + Who defines what is a "**good**" person?
@@ -345,14 +356,7 @@ and the **earth** was formed out of water and by water. <br/>
 By these **waters** also the world of that time <br/>
 was **deluged** and destroyed.
 
-<div class="zh">
-他們**故意忘記**， 從太古， <br/>
-憑神的命有了**天**， <br/>
-並從水而出、 藉水而成的**地**。 <br/>
-故此， 當時的世界**被水淹沒**就消滅了。
-</div>
-
-[2 Peter <span class="zh">彼得後</span> 3:5-6 (p.1/2)](# "ref")
+[2 Peter 3:5-6 (p.1/2)](# "ref")
 
 >>>
 The Bible reminds us of the importance of both Creation and the Flood.
@@ -367,14 +371,7 @@ are reserved for **fire**, <br/>
 being kept for the **day of judgment** <br/>
 and destruction of the ungodly.
 
-<div class="zh">
-但**現在**的天地 <br/>
-還是憑著那命存留， <br/>
-直留到不敬虔之人受審判 <br/>
-遭沉淪的日子， 用火焚燒。
-</div>
-
-[2 Peter <span class="zh">彼得後</span> 3:7 (p.2/2)](# "ref")
+[2 Peter 3:7 (p.2/2)](# "ref")
 
 [&copy; James Wheeler)](http://www.souvenirpixels.com/photo-blog/double-rainbow "caption")
 
@@ -395,12 +392,7 @@ Jesus Christ -- and we must, like Noah, spread the word with urgency.
 The **heavens** declare the **glory** of God; <br/>
 the skies proclaim the **work** of his hands.
 
-<div class="zh">
-諸**天**述說神的**榮耀**； <br/>
-穹蒼傳揚他的**手段**
-</div>
-
-[Psalm <span class="zh">詩</span> 19:1](# "ref")
+[Psalm 9:1](# "ref")
 
 >>>
 The more we study the creation, the more it leads us to glorify the Creator.
