@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Science and the Bible
+# Science and <br> the Bible
 
 >>>
 + **science**: observation of current real world
@@ -128,7 +128,8 @@ and the **breath** of all mankind.
 **Knowledge** puffs up while **love** builds up.
 
 Those who **think** they know something <br/>
-**do not** yet know as they ought to know. <br>
+**do not** yet know as they ought to know.
+
 But whoever **loves God** is known by God.
 
 [1 Corinthians 8:2-3](# "ref")
@@ -149,8 +150,8 @@ But whoever **loves God** is known by God.
 | --- | --- |
 | **Design** and purpose | **No** intelligence |
 | Distinct **kinds** | **Common** ancestry |
-| **Good** creation, <br/> corrupted by sin | Increasingly **complex** <br/> organisms |
-| **Short** history, short future | **Billions** of years |
+| **Good** creation, <br/> corrupted by sin | Increasingly **complex** organisms |
+| **Short** history, <br> short future | **Billions** of years |
 
 >>>
 + **origins**: history, not **repeatable**.
@@ -338,7 +339,7 @@ is *decreasing*, not increasing.  We're not evolving, but devolving.
 + Who defines what is a "**good**" person?
 + How much **longer** will our world last?
 
-&rArr; **science** is not independent of **morality**!
+&rArr; **Science** is not independent of **morality**!
 
 >>>
 - These scientific questions are not merely academic curiosities.
@@ -351,8 +352,11 @@ very soon, not in a billion years.
 ---
 <!-- .slide: data-background-image="img/wm-The_Water_Planet.jpg" -->
 But they **deliberately forget** that long ago <br/>
-by God’s word the **heavens** came into being <br/>
-and the **earth** was formed out of water and by water. <br/>
+by God’s word the **heavens** came into being
+
+and the **earth** was formed <br>
+out of water and by water.
+
 By these **waters** also the world of that time <br/>
 was **deluged** and destroyed.
 
@@ -366,8 +370,10 @@ the earth.  The symbol of this promise is the rainbow.
 
 ---
 <!-- .slide: <%= bg("wheeler-rainbow.jpg") %> -->
-By the same word the **present** heavens and earth <br/>
-are reserved for **fire**, <br/>
+By the same word <br>
+the **present** heavens and earth <br/>
+are reserved for **fire**, 
+
 being kept for the **day of judgment** <br/>
 and destruction of the ungodly.
 
