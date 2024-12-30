@@ -29,11 +29,11 @@ In the **beginning** <br>
 
 <div class="imgbox"><div>
 
-![photo of car](static/img/sentra.jpg)
+![photo of car](img/sentra.jpg)
 
 </div><div>
 
-![photo of gas station](static/img/wm-Union_76_Gas_Station.jpg)
+![photo of gas station](img/wm-Union_76_Gas_Station.jpg)
 
 </div></div>
 
@@ -47,7 +47,7 @@ In the **beginning** <br>
 
 <div class="imgbox"><div>
 
-![photo of owner's manual](static/img/ownersmanual.jpg)
+![photo of owner's manual](img/ownersmanual.jpg)
 
 </div><div>
 
@@ -102,11 +102,11 @@ and the **breath** of all mankind.
 
 <div class="imgbox"><div>
 
-![photo of Matthew Maury](static/img/maury.jpg)
+![photo of Matthew Maury](img/maury.jpg)
 
 </div><div>
 
-![map of oceans](static/img/maury-atlantic.jpg)
+![map of oceans](img/maury-atlantic.jpg)
 
 </div></div>
 
@@ -168,11 +168,11 @@ But whoever **loves God** is known by God.
 
 <div class="imgbox"><div>
 
-[![Evolutionary tree](static/img/apeman-tree.jpg)](http://culturedvultures.com/evolution-will-one-day-disproved-using-human-model/)
+[![Evolutionary tree](img/apeman-tree.jpg)](http://culturedvultures.com/evolution-will-one-day-disproved-using-human-model/)
 
 </div><div>
 
-[![Phylogenetic tree from 16 ribosomal proteins per organism](static/img/hug-new_view_tree_of_life.jpg)](http://www.nature.com/articles/nmicrobiol201648)
+[![Phylogenetic tree from 16 ribosomal proteins per organism](img/hug-new_view_tree_of_life.jpg)](http://www.nature.com/articles/nmicrobiol201648)
 
 </div></div>
 
@@ -192,11 +192,11 @@ But whoever **loves God** is known by God.
 
 <div class="imgbox"><div>
 
-![Evolutionary tree vs creationist orchard](static/img/lawn-tree-orchard.jpg)
+![Evolutionary tree vs creationist orchard](img/lawn-tree-orchard.jpg)
 
 </div><div>
 
-[![Variation within a kind](static/img/purdom-cat-kind.gif)](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/)
+[![Variation within a kind](img/purdom-cat-kind.gif)](https://answersingenesis.org/creation-science/baraminology/variety-within-created-kinds/)
 
 </div></div>
 
@@ -214,7 +214,7 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 
 <div class="imgbox"><div>
 
-![Miller-Urey experiment](static/img/Miller-Urey_experiment-en.png)
+![Miller-Urey experiment](img/Miller-Urey_experiment-en.png)
 <!-- .element: style="background-color: white" -->
 
 </div><div>
@@ -223,7 +223,7 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 + No oxygen
 + Chirality mix
 
-![DNA double-helix](static/img/DNA_simple2.png)
+![DNA double-helix](img/DNA_simple2.png)
 <!-- .element: style="background-color: white" width="70%" -->
 
 </div></div>
@@ -242,11 +242,11 @@ Which model fits better with what we see in the world? Not scientists' opinions,
 
 <div class="imgbox"><div>
 
-![Louis Pasteur](static/img/wm-Louis_Pasteur.jpg)
+![Louis Pasteur](img/wm-Louis_Pasteur.jpg)
 
 </div><div>
 
-![Pasteur's swan-necked flask](static/img/pasteur-swan-Wellcome_M0012521.jpg)
+![Pasteur's swan-necked flask](img/pasteur-swan-Wellcome_M0012521.jpg)
 
 </div></div>
 
@@ -265,11 +265,11 @@ Peppered moths
 
 <div class="imgbox"><div>
 
-[![Black pepper moth, &copy; Jerzy Strzelecki](static/img/moth-black-jerzystrzelecki.jpg)](https://commons.wikimedia.org/wiki/Biston_betularia)
+[![Black pepper moth, &copy; Jerzy Strzelecki](img/moth-black-jerzystrzelecki.jpg)](https://commons.wikimedia.org/wiki/Biston_betularia)
 
 </div><div>
 
-[![White pepper moth, &copy; Jamie McMillan](static/img/moth-white-drinkermoth.jpg)](https://www.flickr.com/photos/drinkermoth/7889770032)
+[![White pepper moth, &copy; Jamie McMillan](img/moth-white-drinkermoth.jpg)](https://www.flickr.com/photos/drinkermoth/7889770032)
 
 </div></div>
 
@@ -290,15 +290,15 @@ Peppered moths
 
 <div class="imgbox"><div>
 
-![Dodo bird](static/img/dodo.jpg)
+![Dodo bird](img/dodo.jpg)
 
 </div><div>
 
-![Passenger pigeon](static/img/passenger_pigeon.jpg)
+![Passenger pigeon](img/passenger_pigeon.jpg)
 
 </div><div>
 
-[![Mastodon, Charles R Knight](static/img/Knight_Mastodon.jpg)](http://research.amnh.org/paleontology/artwork/knight/index.html)
+[![Mastodon, Charles R Knight](img/Knight_Mastodon.jpg)](http://research.amnh.org/paleontology/artwork/knight/index.html)
 
 </div></div>
 
@@ -314,11 +314,11 @@ is *decreasing*, not increasing.  We're not evolving, but devolving.
 
 <div class="imgbox"><div>
 
-[![Chimp at Kibale, Uganda. &copy; Dror Feitelson](static/img/wm-Kibale_chimp.jpg)](https://en.wikipedia.org/wiki/Kibale_National_Park)
+[![Chimp at Kibale, Uganda. &copy; Dror Feitelson](img/wm-Kibale_chimp.jpg)](https://en.wikipedia.org/wiki/Kibale_National_Park)
 
 </div><div>
 
-![Sheet music](static/img/mozart-zweig_MS63.jpg)
+![Sheet music](img/mozart-zweig_MS63.jpg)
 
 </div></div>
 
@@ -331,7 +331,7 @@ is *decreasing*, not increasing.  We're not evolving, but devolving.
   - Same composer
 
 ---
-<!-- .slide: data-background-image="static/img/creation_of_adam.jpg" -->
+<!-- .slide: data-background-image="img/creation_of_adam.jpg" -->
 ## Implications
 
 + Is there a Creator we are **accountable** to?
@@ -349,7 +349,7 @@ creation was a few thousand years ago, and also the judgment is coming
 very soon, not in a billion years.
 
 ---
-<!-- .slide: data-background-image="static/img/wm-The_Water_Planet.jpg" -->
+<!-- .slide: data-background-image="img/wm-The_Water_Planet.jpg" -->
 But they **deliberately forget** that long ago <br/>
 by God’s word the **heavens** came into being <br/>
 and the **earth** was formed out of water and by water. <br/>
